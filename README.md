@@ -1,15 +1,15 @@
-<h1 align="center"> Pong no Scratch </h1>
+<h1 align="center"> RpS no Scratch </h1>
 
 <p align="center">
-Programa desenvolvido durante o curso de Lógica de Programação na Alura. <br/>
-<a href="https://cursos.alura.com.br/course/pong-javascript/task/56089" target="_blank">Estude esse projeto através desse curso.</a>
+Program developed during the cs50 course. <br/>
+<a href="https://cs50.harvard.edu/x/2024/" target="_blank">Visit this course.</a>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-jogo">Jogo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-game">Game</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -19,55 +19,48 @@ Programa desenvolvido durante o curso de Lógica de Programação na Alura. <br/
 <br>
 
 <p align="center">
-  <img alt="projeto Pong MonteScript" src=".github/preview.jpg" width="100%">
+  <img alt="project Rock, Paper and Scissors" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - Scratch
-- Lógica de programação
-- Git e Github
+- Programming logic
+- Canva
+- Git and Github
 
-## 💻 Projeto
+## 💻 Project
 
-O jogo pong foi desenvolvido utilizando a linguagem de programação Scratch e simula um jogo de ping-pong com duas raquetes, uma bola e a pontuação de cada jogador.
+The game RpS (Rock Paper Scissors) was developed using the Scratch programming language and simulates a game known as Jokenpo.
 
-Na plataforma é possível utilizar várias opções de códigos, fantasias e sons.
+On the platform it is possible to use several code and costume options.
 
-Foi implementado a colisão da bolinha com as bordas, minha raquete e a raquete do oponente;
+The logic for choosing the hand by the user (duck) and by the computer (dinosaur) was implemented;
 
-Foi movimentada a raquete do oponente de forma individual, para acertar a bolinha na maioria das vezes;
+The symbol with the three hand options was moved when starting the game;
 
-Foi criado o placar do jogo, indicando os meus pontos e do oponente;
+The game scoreboard was created, indicating the user's and computer's points.
 
-Foi adicionado sons e editado a página do jogo no Scratch para que outras pessoas possam jogar.
+[Access the finished project online.](https://scratch.mit.edu/projects/1028059214/)
 
+## 🔖 Game
 
+Instructions:
 
-[Acesse o projeto finalizado, online.](https://scratch.mit.edu/projects/734114605) 
+User = Duck
+Computer = Dinosaur
 
-[Assistir a aula.](https://cursos.alura.com.br/course/pong-javascript/task/56089) 
+1. Click on the green flag to start the game;
+2. Click on the red ball to stop the game;
+3. Use keys 1, 2 or 3 to choose between rock, scissors or paper.
+4. Score according to the rules on the screen.
 
+## :memo: License
 
-## 🔖 Jogo
-
-Instruções:
-
-1. Clique na bandeira verde para iniciar o jogo;
-2. Clique na bola vermelha para parar o jogo;
-3. Utilize as setas para cima e para baixo para movimentar a raquete verde e jogar contra a raquete azul do computador.
-4. Marca ponto ao acertar a parede do oponente.
-
-
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
 
-Feito durante o curso na
-<a href="https://cursos.alura.com.br/course/pong-javascript/task/56089" target="_blank">Alura</a>
-
+Made with ☕️ by BrunnoML.
