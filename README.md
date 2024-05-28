@@ -2,8 +2,8 @@
 
 <p align="center">
 Program developed during the cs50 course. <br/>
+<a href="https://cs50.harvard.edu/x/2024/" target="_blank">Visit this course.</a>
 </p>
-- [Visite este curso. 🌐](https://cs50.harvard.edu/x/2024/)
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
