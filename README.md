@@ -2,8 +2,8 @@
 
 <p align="center">
 Program developed during the cs50 course. <br/>
-<a href="https://cs50.harvard.edu/x/2024/" target="_blank">Visit this course.</a>
 </p>
+- [Visite este curso. 🌐](https://cs50.harvard.edu/x/2024/)
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -49,8 +49,8 @@ The game scoreboard was created, indicating the user's and computer's points.
 
 Instructions:
 
-User = Duck
-Computer = Dinosaur
+- User = Duck
+- Computer = Dinosaur
 
 1. Click on the green flag to start the game;
 2. Click on the red ball to stop the game;
