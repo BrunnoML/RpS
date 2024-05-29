@@ -8,6 +8,7 @@ Program developed during the cs50 course. <br/>
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-update">Update</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-game">Game</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -19,7 +20,7 @@ Program developed during the cs50 course. <br/>
 <br>
 
 <p align="center">
-  <img alt="project Rock, Paper and Scissors" src=".github/preview.jpg" width="100%">
+  <img alt="project Rock, Paper and Scissors" src="img/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -43,6 +44,10 @@ The symbol with the three hand options was moved when starting the game;
 
 The game scoreboard was created, indicating the user's and computer's points.
 
+## 📱 Update
+
+The project was updated on May 29, 2024, for the option of using it on cell phones, simply clicking on the options behind the duck.
+
 [Access the finished project online.](https://scratch.mit.edu/projects/1028059214/)
 
 ## 🔖 Game
@@ -55,7 +60,8 @@ Instructions:
 1. Click on the green flag to start the game;
 2. Click on the red ball to stop the game;
 3. Use keys 1, 2 or 3 to choose between rock, scissors or paper.
-4. Score according to the rules on the screen.
+4. On your cell phone, just click on the options behind the duck.
+5. Score according to the rules on the screen.
 
 ## :memo: License
 
